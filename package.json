@@ -1,0 +1,9 @@
+{
+	"scripts": {
+		"start": "node src/ContainsDuplicate.js && node src/SearchInsert.js",
+		"test": "jest"
+	},
+	"devDependencies": {
+		"jest": "^29.6.1"
+	}
+}
