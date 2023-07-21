@@ -28,5 +28,5 @@ You can use npm, yarn or pnpm.
 
 First install the jest packages then run the script:
 
-<code>pnpm install</code>
-<code>pnpm test</code>
+
+<code>pnpm install<br />pnpm test</code>
