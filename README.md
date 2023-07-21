@@ -14,7 +14,7 @@
 
 ### to run problem 2:
 
-<code>node src/SearchInser.js</code>
+<code>node src/SearchInsert.js</code>
 
 
 ### run both:
